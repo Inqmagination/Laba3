@@ -1,0 +1,9 @@
+echo off
+cd kryukov
+cd maxim 
+rd kryukov
+cd ..
+rd maxim
+rd sergeevich
+cd ..
+rd kryukov
